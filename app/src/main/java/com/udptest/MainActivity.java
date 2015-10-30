@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
     int UDP_SERVER_PORT = 9876;
     EditText editText = null;
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
